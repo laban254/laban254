@@ -11,15 +11,22 @@ Got a question or interested in collaborating? 🤔✨ Drop me a line at  labanr
 Let’s connect and make great things happen! 📧🚀”
 
 ## My stats⚡ 
-<table>
+
+<div align="center">
+
+<table style="width: 100%; max-width: 600px; border-collapse: collapse;">
   <tr>
-    <td>
-        
-[![castorichy GitHub stats](https://github-readme-stats.vercel.app/api?username=laban254&show_icons=true&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&repo=github-readme-stats)](https://github.com/laban254/github-readme-stats)
+    <td style="width: 50%; padding: 10px;">
+      <a href="https://github.com/laban254/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=laban254&show_icons=true&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&repo=github-readme-stats" alt="Kibe GitHub stats" style="max-width: 100%; height: auto;"/>
+      </a>
     </td>
-    <td>
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laban254&show_icons=true&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/laban254/github-readme-stats)
+    <td style="width: 70%; padding: 10px; vertical-align: top;">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" style="max-width: 140%; height: auto;"/>
     </td>
   </tr>
 </table>
+
+</div>
+
