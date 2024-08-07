@@ -1,4 +1,4 @@
-### Hi, I'm Kibe 👋
+### Hi, I'm Kibe 👋 and welcome to my GitHub bio.
 
 A passionate software developer dedicated to crafting innovative solutions and building products that enhance user experiences.
 
