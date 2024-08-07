@@ -21,8 +21,8 @@ Let’s connect and make great things happen! 📧🚀”
         <img src="https://github-readme-stats.vercel.app/api?username=laban254&show_icons=true&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&repo=github-readme-stats" alt="Kibe GitHub stats" style="max-width: 100%; height: 150px; object-fit: cover;"/>
       </a>
     </td>
-    <td style="width: 33%; padding: 5px; vertical-align: top;">
-      <h3>✍️ Random Dev Quote</h3>
+    <td style="width: 33%; padding: 5px; vertical-align: top; text-align: center;">
+<!--       <h3 style="font-size: 16px; margin: 0; padding: 0;">✍️ Random Dev Quote</h3> -->
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" style="max-width: 100%; height: 150px; object-fit: cover;"/>
     </td>
     <td style="width: 33%; padding: 5px; vertical-align: top;">
@@ -34,6 +34,7 @@ Let’s connect and make great things happen! 📧🚀”
 </table>
 
 </div>
+
 
 
 
