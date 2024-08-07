@@ -27,7 +27,7 @@ Let’s connect and make great things happen! 📧🚀”
     </td>
     <td style="width: 33%; padding: 5px; vertical-align: top;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 100%; height: 150px; object-fit: cover;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laban254&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 100%; height: 150px; object-fit: cover;"/>
       </a>
     </td>
   </tr>
