@@ -25,8 +25,13 @@ Let’s connect and make great things happen! 📧🚀”
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" style="max-width: 140%; height: auto;"/>
     </td>
+    
+    
   </tr>
 </table>
 
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkoech357&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
