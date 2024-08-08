@@ -6,7 +6,7 @@ An enthusiastic software developer🚀focused on creating innovative solutions�
 Let’s build something great together! 🤝🏾
 
 ## 📬 Let's Connect
-Got a question or interested in collaborating? 🤔✨ Drop me a line at  labanrotich6544@gmail.com.
+Got a question or interested in collaborating? 🤔✨ Drop me a line via 📧 Email at [labanrotich6544@gmail.com](mailto:labanrotich6544@gmail.com) or 📱 [WhatsApp](https://wa.me/254796200725).
 
 Let’s connect and make great things happen! 📧🚀”
 
