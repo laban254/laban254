@@ -2,7 +2,12 @@
 
 **🚀 Software Engineer | 🔥 Problem Solver | ✨ Tech Enthusiast**
 
-I build robust, scalable solutions that deliver seamless user experiences. Passionate about open-source, clean code, and pushing tech boundaries.
+*Building scalable solutions* 
+
+📫 **Reach out:**  
+→ **Email:** [labanrotich6544@gmail.com](mailto:labanrotich6544@gmail.com)  
+→ **WhatsApp:** [Hit me up](https://wa.me/254796200725)  
+
 
 ## ⚡ GitHub Stats: 
 
