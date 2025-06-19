@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kibe 
 
-**🚀 Software Engineer | 🔥 Problem Solver | ✨ Tech Enthusiast**
+**💻 Software Engineer | 🛠️ Problem Solver | 📚 Tech Enthusiast**  
 
 *Building scalable solutions* 
 
