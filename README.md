@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Kibe 
+## 👋🏽 Hi, I'm Kibe 
 
 **💻 Software Engineer | 🛠️ Problem Solver | 📚 Tech Enthusiast**  
 
 *Building scalable solutions* 
 
 📫 **Reach out:**  
-→ **Email:** [labanrotich6544@gmail.com](mailto:labanrotich6544@gmail.com)  
-→ **WhatsApp:** [Hit me up](https://wa.me/254796200725)  
+      → **Email:** [labanrotich6544@gmail.com](mailto:labanrotich6544@gmail.com)  
+      → **WhatsApp:** [Hit me up](https://wa.me/254796200725)  
 
 
-## ⚡ GitHub Stats: 
+###  📊 GitHub Stats: 
 
 <div align="center">
 
