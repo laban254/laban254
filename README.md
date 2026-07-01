@@ -34,4 +34,4 @@ I work across AI-powered applications, cloud-native backends, and modern web fro
 
 ---
 
-📫 Reach me at labanrotich6544@gmail.com or connect 
+📫 Reach me at labanrotich6544@gmail.com
