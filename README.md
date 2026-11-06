@@ -1,11 +1,11 @@
 # Hey, I'm Laban 👋
 
-Software Engineer 
+**Software Engineer | Backend Systems | AI Engineering | Cloud Infrastructure**
 
-Curious about how things work, passionate about building useful software, and always experimenting with new ideas.
+I build software systems that solve real-world problems, from backend platforms and distributed services to AI-powered applications and automation.
 
-I spend most of my time writing code, exploring AI, breaking things, fixing them and occasionally building something interesting.
+My work revolves around designing reliable APIs, building scalable backend architectures, integrating intelligent systems, and exploring how AI agents can interact with real-world infrastructure.
 
-I believe the best way to understand technology is to build with it.
+Currently exploring the intersection of **Backend Engineering, Platform Engineering, and AI Infrastructure** — building, experimenting, and turning ideas into working systems.
 
-🌐 [labankibet.tech](https://labankibet.tech)
+**Build. Experiment. Break things. Make them better.**
